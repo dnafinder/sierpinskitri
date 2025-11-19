@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=dnafinder/sierpinskitri)
+
 🔺 sierpinski.m — MATLAB Sierpinski Triangle Generator
 
 sierpinski.m is a compact and fully vectorized MATLAB function that generates and plots the Sierpinski triangle using a recursive affine-iteration scheme. It is lightweight, self-contained, and ideal for demonstrations, fractal visualization, and teaching purposes.
